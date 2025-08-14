@@ -1,0 +1,97 @@
+h1{
+    color: white;
+}
+.right1{
+    text-align: right;
+    font-size: 50px;
+}
+
+body{
+    background-color: #16365d;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+}
+
+li{
+    color: white;
+}
+.li1{
+    color: red;
+}
+.li2{
+    color: rgb(233, 95, 216);
+}
+
+.p1{
+    color: red;
+    text-decoration: underline;
+}
+
+.left1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+.pmain{
+    text-align: center;
+}
+.p2{
+    color: yellow;
+    text-decoration: underline;
+}
+.p3{
+    color: blue;
+}
+.p4{
+    color: rgb(73, 255, 73);
+}
+
+.h1border{
+    background-color: black;
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+    width: 50%;
+}
+
+.p5{
+    text-align: right;
+}
+.p6{
+    color: blue;
+}
+.p7{
+    color: red;
+}
+.p8{
+    text-align: right;
+}
+
+.p9{
+    color: black;
+    background-color: rgb(73, 255, 73);
+}
+
+.left2{
+    color: rgb(73, 255, 73);
+}
+
+.p10{
+    background-color: black;
+    border-left: 1px solid red;
+    border-right: 1px solid yellow;
+    padding: 20px;
+}
+
+.left3{
+    color: yellow;
+    text-decoration: underline;
+}
+
+.p11{
+    background-color: red;
+}
