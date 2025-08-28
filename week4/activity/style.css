@@ -1,0 +1,56 @@
+body {
+    background-color: tan;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.p1 {
+    background-color: white;
+    width: 200px;
+    height: 195px;
+    border-right: 20px solid black;
+    border-bottom: 20px solid black;
+}
+.p2 {
+    background-color: white;
+    width: 200px;
+    height: 195px;
+    border-right: 20px solid black;
+    border-top: 20px solid black;
+    border-bottom: 20px solid;
+}
+.p3 {
+    background-color: red;
+    width: 500px;
+    height: 430px;
+    border-bottom: 20px solid black;
+}
+
+.p4 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border-right: 20px solid black;
+}
+.p5 {
+    background-color: white;
+    width: 430px;
+    height: 200px;
+}
+
+.p6 {
+    background-color: white;
+    width: 50px;
+    height: 80px;
+    border-left: 20px solid black;
+    border-bottom: 20px solid black;
+}
+.p7 {
+    background-color: yellow;
+    width: 50px;
+    height: 80px;
+    border-left: 20px solid black;
+    border-top: 20px solid black;
+}
