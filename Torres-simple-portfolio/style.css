@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 70px;
+}
+
+.hero {
+    background-color: #eef7f6;
+    padding: 60px 0;
+}
+
+.hero h1 {
+    font-weight: bold;
+}
+
+.section-title {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.services {
+    padding: 60px 0;
+}
+
+.card-box {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.info {
+    padding: 60px 0;
+}
+
+.clients {
+    background-color: #f9fbfc;
+    padding: 60px 0;
+}
+
+.client-card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+.client-card img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.site-footer {
+    background-color: #0f2a44;
+    color: white;
+    padding: 50px 0 20px;
+    font-size: 14px;
+}
+
+.site-footer h5 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 8px;
+}
+
+.footer-copy {
+    margin-top: 15px;
+    font-size: 13px;
+    opacity: 0.8;
+}
